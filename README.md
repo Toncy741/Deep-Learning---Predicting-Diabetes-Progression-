@@ -1,5 +1,14 @@
 # Deep-Learning---Predicting-Diabetes-Progression-
 
+* Objective:
+* 
+You are required to model the progression of diabetes using the available independent variables. This model will help healthcare professionals understand how different factors influence the progression of diabetes and potentially aid in designing better treatment plans and preventive measures. The model will provide insights into the dynamics of diabetes progression in patients.
+
+* Dataset
+Use the Diabetes dataset available in the sklearn library.
+
+
+
  1 Data Collection and Preprocessing:
 
 Gathered the dataset and performed necessary preprocessing steps such as handling missing values, normalizing data, and splitting it into training and testing sets.
